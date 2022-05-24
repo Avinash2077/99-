@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653097447 source:e:\250+\firstprograme\firstprogramme\welcome.c
+	<stdio.h>
+
+1653353742 source:e:\250+\firstprograme\firstprogramme\area_of_the_circle.c
+	<stdio.h>
+
+1653354162 source:e:\250+\firstprograme\firstprogramme\ascivalueofchar.c
+	<stdio.h>
+
+1653355139 source:e:\250+\firstprograme\firstprogramme\areaofthetriangle.c
+	<stdio.h>
+
+1653355220 source:e:\250+\firstprograme\firstprogramme\abbrivation.c
+	<stdio.h>
+
+1653355891 source:e:\250+\firstprograme\firstprogramme\greatestnumber.c
+	<stdio.h>
+
+1653357393 source:e:\250+\firstprograme\firstprogramme\celsiustofarenheat.c
+	<stdio.h>
+
+1653357122 source:e:\250+\firstprograme\firstprogramme\percentage.c
+	<stdio.h>
+
+1653358363 source:e:\250+\firstprograme\firstprogramme\factorialofnumber.c
+	<stdio.h>
+
+1653358761 source:e:\250+\firstprograme\firstprogramme\firstthreepowers.c
+	<stdio.h>
+	<math.h>
+
